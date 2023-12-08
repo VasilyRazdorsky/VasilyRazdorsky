@@ -7,11 +7,8 @@ I'm a Frontend developer from Moscow.
 
 ## Hackatons
 
-<details>
-<summary>Wins</summary>
-<div align="center">
+<div align="left">
 <p float="left">
   <img src="img/Axenix_Hack_Diploma.jpg" width="200" />
 </p>
 </div>
-</details>
