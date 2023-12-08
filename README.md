@@ -8,9 +8,8 @@ I'm a Frontend developer from Moscow.
 ## Hackatons
 
 <details>
-
-<div align="center">
 <summary>Wins</summary>
+<div align="center">
 <p float="left">
   <img src="img/Axenix_Hack_Diploma.jpg" width="200" />
 </p>
