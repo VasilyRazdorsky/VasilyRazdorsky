@@ -10,6 +10,7 @@ I'm a Frontend developer from Moscow.
 <details>
 
 <div align="center">
+<summary>Wins</summary>
 <p float="left">
   <img src="img/Axenix_Hack_Diploma.jpg" width="200" />
 </p>
