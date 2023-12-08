@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Vasilii Razdorskii. I'm a Frontend developer from Moscow&
 
 <!--
 **VasilyRazdorsky/VasilyRazdorsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
